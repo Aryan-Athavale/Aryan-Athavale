@@ -1,4 +1,4 @@
-# About Me!🖥️
+# About Me! 🖥️
 - 👋 Hi, I’m @Aryan-Athavale.
 - 👀 I’m interested in software/hardware development such as CPU design and full-stack development.
 - 🌱 I’m currently learning web application development using HTML, CSS, Python, Flask, and Jinja.
