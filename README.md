@@ -6,6 +6,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing basketball and building PC's.
 
+### 📊 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Athavale&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Athavale&layout=compact&theme=tokyonight)
+
 
 <!---
 Aryan-Athavale/Aryan-Athavale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
